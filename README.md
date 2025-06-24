@@ -1,4 +1,4 @@
-# OIBSIP Projects Repository
+# Python Projects Repository
 
 Welcome to my OIBSIP (Oasis InfoByte Internship) Projects repository! This repository contains a collection of Python projects developed during my internship. Each project is designed to showcase different aspects of Python programming, including GUI development, data visualization, secure password generation, and API integration.
 
